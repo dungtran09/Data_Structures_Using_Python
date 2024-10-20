@@ -4,7 +4,7 @@ def prefix_average(S):
     total = 0
     for i in range(n):
         total += S[i]
-        A[i] = total/ (i + 1)
+        A[i] = total / (i + 1)
 
     return A
 
@@ -16,4 +16,3 @@ A = prefix_average(S)
 
 
 print(A)
-
