@@ -13,4 +13,3 @@ def binary_search(S, target, low, high):
 
 S = [1, 5, 6, 8, 10, 35, 46]
 print(binary_search(S, 11, 0, len(S)))
-

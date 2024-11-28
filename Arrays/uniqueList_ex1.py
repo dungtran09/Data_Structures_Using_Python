@@ -8,7 +8,7 @@ def unique1(S):
     print("The list is Unique")
     return
 
+
 S = [1, 3, 5, 7, 9, 9]
 
 unique1(S)
-
